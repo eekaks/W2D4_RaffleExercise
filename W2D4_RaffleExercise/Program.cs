@@ -87,7 +87,7 @@ namespace W2D4_RaffleExercise
                 if (a == b || a > b)
                 {
                     Console.WriteLine("Here is the prize!");
-                    Console.WriteLine("<3<3<3<3<3<3<3<3<3");
+                    Console.WriteLine("GGGGGGGGGGGGGGGGGG");
                     return true;
                 }
                 return false;
