@@ -15,8 +15,9 @@ namespace W2D4_RaffleExercise
             // display welcome message
             public void Welcome()
             {
-                Console.WriteLine("\n\n*********************************");
-                Console.WriteLine("Welcome to the lotto game\n");
+                Console.WriteLine("\n\n%&%&%&%&&%&%&&%&%&%&&%&%&&%&%");
+                Console.WriteLine("Tervetuloa arpajaisiin!\n");
+                Console.WriteLine("\n\n%&%&%&%&&%&%&&%&%&%&&%&%&&%&%\n");
             }
 
             // show dots while raffling
