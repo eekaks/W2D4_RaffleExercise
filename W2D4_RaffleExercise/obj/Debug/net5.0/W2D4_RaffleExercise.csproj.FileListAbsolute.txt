@@ -1,0 +1,16 @@
+C:\Users\eetu\source\repos\W2D4_RaffleExercise\W2D4_RaffleExercise\obj\Debug\net5.0\W2D4_RaffleExercise.csproj.AssemblyReference.cache
+C:\Users\eetu\source\repos\W2D4_RaffleExercise\W2D4_RaffleExercise\obj\Debug\net5.0\W2D4_RaffleExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eetu\source\repos\W2D4_RaffleExercise\W2D4_RaffleExercise\obj\Debug\net5.0\W2D4_RaffleExercise.AssemblyInfoInputs.cache
+C:\Users\eetu\source\repos\W2D4_RaffleExercise\W2D4_RaffleExercise\obj\Debug\net5.0\W2D4_RaffleExercise.AssemblyInfo.cs
+C:\Users\eetu\source\repos\W2D4_RaffleExercise\W2D4_RaffleExercise\obj\Debug\net5.0\W2D4_RaffleExercise.csproj.CoreCompileInputs.cache
+C:\Users\eetu\source\repos\W2D4_RaffleExercise\W2D4_RaffleExercise\bin\Debug\net5.0\W2D4_RaffleExercise.exe
+C:\Users\eetu\source\repos\W2D4_RaffleExercise\W2D4_RaffleExercise\bin\Debug\net5.0\W2D4_RaffleExercise.deps.json
+C:\Users\eetu\source\repos\W2D4_RaffleExercise\W2D4_RaffleExercise\bin\Debug\net5.0\W2D4_RaffleExercise.runtimeconfig.json
+C:\Users\eetu\source\repos\W2D4_RaffleExercise\W2D4_RaffleExercise\bin\Debug\net5.0\W2D4_RaffleExercise.runtimeconfig.dev.json
+C:\Users\eetu\source\repos\W2D4_RaffleExercise\W2D4_RaffleExercise\bin\Debug\net5.0\W2D4_RaffleExercise.dll
+C:\Users\eetu\source\repos\W2D4_RaffleExercise\W2D4_RaffleExercise\bin\Debug\net5.0\ref\W2D4_RaffleExercise.dll
+C:\Users\eetu\source\repos\W2D4_RaffleExercise\W2D4_RaffleExercise\bin\Debug\net5.0\W2D4_RaffleExercise.pdb
+C:\Users\eetu\source\repos\W2D4_RaffleExercise\W2D4_RaffleExercise\obj\Debug\net5.0\W2D4_RaffleExercise.dll
+C:\Users\eetu\source\repos\W2D4_RaffleExercise\W2D4_RaffleExercise\obj\Debug\net5.0\ref\W2D4_RaffleExercise.dll
+C:\Users\eetu\source\repos\W2D4_RaffleExercise\W2D4_RaffleExercise\obj\Debug\net5.0\W2D4_RaffleExercise.pdb
+C:\Users\eetu\source\repos\W2D4_RaffleExercise\W2D4_RaffleExercise\obj\Debug\net5.0\W2D4_RaffleExercise.genruntimeconfig.cache
