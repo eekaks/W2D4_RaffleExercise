@@ -3,11 +3,13 @@ using System.Threading;
 
 namespace W2D4_RaffleExercise
 {
+
+
+
     namespace Game
     {
-        public class Raffle
-        {
-
+        public class Raffle{
+        
             public bool victory;
 
             // display welcome message
@@ -57,7 +59,6 @@ namespace W2D4_RaffleExercise
                 GetResult(ticket);
             }
         }
-
         class Exercise
         {
             static void Main(string[] args)
@@ -76,7 +77,6 @@ namespace W2D4_RaffleExercise
                 {
                     Console.WriteLine("You lost :( \n");
                 }
-
                 Console.WriteLine("*********************************");
             }
         }
@@ -91,9 +91,9 @@ namespace W2D4_RaffleExercise
                     Console.WriteLine("GGGGGGGGGGGGGGGGGG");
                     return true;
                 }
-
                 return false;
             }
         }
     }
+
 }

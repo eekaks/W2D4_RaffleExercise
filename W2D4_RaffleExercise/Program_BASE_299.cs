@@ -3,19 +3,20 @@ using System.Threading;
 
 namespace W2D4_RaffleExercise
 {
+
+
+
     namespace Game
     {
-        public class Raffle
-        {
-
+        public class Raffle{
+        
             public bool victory;
 
             // display welcome message
             public void Welcome()
             {
-                Console.WriteLine("\n\n%&%&%&%&&%&%&&%&%&%&&%&%&&%&%");
-                Console.WriteLine("Tervetuloa arpajaisiin!\n");
-                Console.WriteLine("\n\n%&%&%&%&&%&%&&%&%&%&&%&%&&%&%\n");
+                Console.WriteLine("\n\n*********************************");
+                Console.WriteLine("Welcome to the lotto game\n");
             }
 
             // show dots while raffling
@@ -57,7 +58,6 @@ namespace W2D4_RaffleExercise
                 GetResult(ticket);
             }
         }
-
         class Exercise
         {
             static void Main(string[] args)
@@ -76,7 +76,6 @@ namespace W2D4_RaffleExercise
                 {
                     Console.WriteLine("You lost :( \n");
                 }
-
                 Console.WriteLine("*********************************");
             }
         }
@@ -91,9 +90,9 @@ namespace W2D4_RaffleExercise
                     Console.WriteLine("GGGGGGGGGGGGGGGGGG");
                     return true;
                 }
-
                 return false;
             }
         }
     }
+
 }
