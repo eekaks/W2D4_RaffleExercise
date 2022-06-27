@@ -14,7 +14,7 @@ namespace W2D4_RaffleExercise
             public void Welcome()
             {
                 Console.WriteLine("\n\n%&%&%&%&&%&%&&%&%&%&&%&%&&%&%");
-                Console.WriteLine("Welcome to Lotto!\n");
+                Console.WriteLine("arpajaisiin nääs!\n");
                 Console.WriteLine("\n\n%&%&%&%&&%&%&&%&%&%&&%&%&&%&%\n");
             }
 
