@@ -8,8 +8,8 @@ namespace W2D4_RaffleExercise
 
     namespace Game
     {
-        public class Raffle
-        {
+        public class Raffle{
+        
             public bool victory;
 
             // display welcome message
@@ -84,7 +84,7 @@ namespace W2D4_RaffleExercise
         {
             public static bool CheckWin(this int a, int b)
             {
-                if (a == b)
+                if (a == b || a > b)
                 {
                     Console.WriteLine("Here is the prize!");
                     Console.WriteLine("<3<3<3<3<3<3<3<3<3");
